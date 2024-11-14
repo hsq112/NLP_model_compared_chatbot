@@ -25,7 +25,7 @@ This repository contains notebooks for experimenting with various NLP models, fo
    This notebook demonstrates a **chatbot model** trained on conversational data using the **BERT** model as the backbone. The model has been fine-tuned for chatbot interactions, allowing it to generate responses based on user inputs.
 
 5. **Web-Based Chatbot Version**  
-   Due to the large size of the trained model files, the web-based chatbot version is provided as a downloadable `.zip` file. You can download the **CHATBOT_web.zip** file from [Google Drive]([https://drive.google.com/drive/folders/1zhXXhSUl-BGPIM09-oEp0lAZo-QzWB39?usp=sharing]). Unzipping this file will provide a complete setup for the chatbot's web version.
+  Due to the large size of the trained model files, the web-based chatbot version is provided as a downloadable `.zip` file. You can download the **CHATBOT_web.zip** file from [Google Drive](https://drive.google.com/drive/folders/1zhXXhSUl-BGPIM09-oEp0lAZo-QzWB39?usp=sharing). Unzipping this file will provide a complete setup for the chatbot's web version.
 
 # Chattie - Web-based Sentiment Chatbot
 
