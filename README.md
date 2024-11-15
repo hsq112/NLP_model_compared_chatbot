@@ -59,7 +59,7 @@ project_folder/
 - Transformers (Hugging Face)
 
 ### Installation
-1. **Set up Virtual Environment (Optional but recommended)**
+1. **Set up Virtual Environment**
 
    ```bash
    python3 -m venv venv
