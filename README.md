@@ -18,13 +18,10 @@ This repository contains notebooks for experimenting with various NLP models, fo
 2. **imdb-bert-lstm.ipynb**  
    This notebook combines the **BERT** (Bidirectional Encoder Representations from Transformers) and **LSTM** models for sentiment analysis on the IMDb dataset. BERT captures contextual word representations, while LSTM focuses on sequential dependencies. The goal is to improve sentiment classification performance by leveraging the strengths of both models.
 
-3. **imdb-bert-cnn-lstm-0-93-acc.ipynb**  
-   This notebook contains the model with the **best performance** (achieving an accuracy of 93%). It combines **BERT**, **CNN** (Convolutional Neural Network), and **LSTM**. The CNN layer extracts local features, BERT provides contextual embeddings, and LSTM captures sequential information. Together, these layers produce a highly effective sentiment analysis model.
-
-4. **chatbot_model_test&tarin.ipynb**  
+3. **chatbot_model_test&tarin.ipynb**  
    This notebook demonstrates a **chatbot model** trained on conversational data using the **BERT** model as the backbone. The model has been fine-tuned for chatbot interactions, allowing it to generate responses based on user inputs.
 
-5. **Web-Based Chatbot Version**  
+4. **Web-Based Chatbot Version**  
   Due to the large size of the trained model files, the web-based chatbot version is provided as a downloadable `.zip` file. You can download the **CHATBOT_web.zip** file from [Google Drive](https://drive.google.com/drive/folders/1zhXXhSUl-BGPIM09-oEp0lAZo-QzWB39?usp=sharing). Unzipping this file will provide a complete setup for the chatbot's web version.
 
 # Chattie - Web-based Sentiment Chatbot
